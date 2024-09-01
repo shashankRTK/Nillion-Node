@@ -1,4 +1,4 @@
 Nillion
 
 
-AccountId: nillion10yxc7gdt6ve73ymqq4vvxvh5gh3x5gu0s4h35w, PublicKey: 0249f0d30030eacf5154e86b3244217f5bf35cd6159f76e69065ec9c27dfb7bc7e
+AccountId: nillion18yjcf9utd0fx3fkz7vfqlx0f2vq22pkawzjvqk, PublicKey: 02a73da0ce0ced146ee19856c028a9f75cffa14f493b09e367f5acaf3ccec978a8
